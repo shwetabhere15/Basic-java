@@ -1,0 +1,190 @@
+Q1. write a program to print Hello and Alexander abramov.
+public class Myclass
+{
+public static void main(String args[])
+{
+System.out.println("Hello");
+System.out.println("Alexandra Abramov");
+}
+}
+
+
+
+
+Q2.write a programe to print addition of two number.
+
+
+
+public class avg
+{
+public static void main(String args[])
+{
+int a= 50;
+int b= 45;
+int c;
+c=a+b ;
+System.out.println(c);
+}
+}
+
+
+
+Q3.write a programe to print division of two number
+
+public class div
+{
+public static void main(String args[])
+{
+int a= 50;
+int b= 3;
+int c;
+c=a/b;
+System.out.println(c);
+
+}
+
+}
+
+
+Q4.write a programe to print product of two number
+
+
+public class mul
+{
+public static void main(String args[])
+{
+int a= 25;
+int b= 5;
+int c;
+c=a*b;
+System.out.println(c);
+
+}
+
+}
+
+
+
+
+Q5.write a programe to perform arithmatic opration.
+
+
+public class q5
+{
+public static void main(String args[])
+{
+int a= 125;
+int b= 24;
+int c;
+c=a+b;
+System.out.println(c);
+d=a-b;
+System.out.println(d);
+e=a*b;
+System.out.println(e);
+f=a/b;
+System.out.println(f);
+g=a%b;
+System.out.println(g)
+}
+}
+
+
+
+Q6.write a program to compute the specifies expression and print the output.
+
+class q9
+ 
+{
+     public static void main(String args[])
+{
+     System.out.println("Expected output");
+     System.out.println(((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5)));
+}
+}
+
+
+Q7.write a programe to print avrage of number.
+
+
+
+public class avg
+{
+public static void main(String args[])
+{
+int a= 50;
+int b= 45;
+int c=90;
+int avg;
+avg=a+b+c/total ;
+System.out.println(avg);
+}
+}
+
+
+
+Q8.write a programe to swap two variable.
+
+
+public class q3
+{
+public static void main(String args[])
+{
+int a= 74;
+int b= 36;
+int c;
+c=a;
+a=b;
+b=c;
+System.out.println(c);
+}
+
+}
+
+
+
+Q9.write a programe to print table
+
+
+
+public class table
+{
+public static void main(String args[])
+{
+for(int i=1;i<=10;i++)
+{
+int a=8;
+int c=a*i;
+System.out.println(a+"*"+i+"="+c);
+}
+}
+}
+
+
+
+
+
+Q10.write a programe to print area and perimeter of circle.
+
+
+
+
+class circle{
+ 
+   private static final double radius = 7.5;
+
+    public static void main(String[] args) {
+
+        double perimeter = 2 * Math.PI * radius;
+        double area = Math.PI * radius * radius;
+
+        System.out.println("Perimeter is = " + perimeter);
+        System.out.println("Area is = " + area);
+    }
+}
+
+  
+
+
+
+}
